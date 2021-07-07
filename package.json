@@ -1,0 +1,23 @@
+{
+  "name": "conditions_governing_access",
+  "version": "1.0.0",
+  "description": "Utility repo for updating resources in ArchivesSpace.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathewjordan/conditions_governing_access.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathewjordan/conditions_governing_access/issues"
+  },
+  "homepage": "https://github.com/mathewjordan/conditions_governing_access#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0"
+  }
+}
